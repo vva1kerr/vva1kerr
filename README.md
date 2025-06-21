@@ -1,14 +1,22 @@
 ## Hi there 👋
 
-| Windows 11 | WSL2 |
-| --- | --- |
-| ABC | |ABC |
+# Hardware:
+| Thinkpad X1 | 
+| --- |
+| ![](/assets/THINKPAD-X1/THINKPAD-X1-LOGO.png) |
+
+### Firmware:
+| Coreboot |
+| --- |
+| ![](/assets/COREBOOT/Coreboot-logo.png) |
 
 ### OS:
 
-| Windows 11 | WSL2 | Kali | Ubuntu | Android |
-| --- | --- | --- | --- | --- | --- |
-| ![Windows 11](/assets/WINDOWS-11/)
+| Windows 11 | WSL | Ubuntu | Kali Nethunter | WinToGO | Tails | VirtualBox |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![](/assets/WINDOWS-11/windows11-original-wordmark.svg) | ![](/assets/WSL/wsl.png) | ![](/assets/UBUNTU/ubuntu-logo.png) | ![](/assets/KALI-NETHUNTER/) | ![](/assets/WINTOGO/wintogo-logo.jpg) | ![](/assets/TAILS/tails-logo.png) | ![](/assets/VIRTUALBOX/VIRTUALBOX-LOGO.png) |
+
+
 
 
 
