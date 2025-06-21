@@ -3,24 +3,24 @@
 # Hardware:
 | Thinkpad X1 | 
 | --- |
-| ![](/assets/THINKPAD-X1/THINKPAD-X1-LOGO.png) |
+| <img src="assets/THINKPAD-X1/THINKPAD-X1-LOGO.svg" width="130" height="85" />|
 
 ### Firmware:
 | Coreboot |
 | --- |
-| ![](/assets/COREBOOT/Coreboot-logo.png) |
+| <img src="assets/COREBOOT/Coreboot-logo.svg" width="85" height="85" /> |
 
 ### OS:
 
 | Windows 11 | WSL | Ubuntu | Kali Nethunter | WinToGO | Tails | VirtualBox |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![](/assets/WINDOWS-11/windows11-original-wordmark.svg) | ![](/assets/WSL/wsl.png) | ![](/assets/UBUNTU/ubuntu-logo.png) | ![](/assets/KALI-NETHUNTER/) | ![](/assets/WINTOGO/wintogo-logo.jpg) | ![](/assets/TAILS/tails-logo.png) | ![](/assets/VIRTUALBOX/VIRTUALBOX-LOGO.png) |
+| <img src="assets/WINDOWS-11/windows11-original-wordmark.svg" width="85" height="85" /> | <img src="assets/WSL/wsl.svg" width="85" height="85" /> | <img src="assets/UBUNTU/ubuntu-logo.svg" width="85" height="85" /> | <img src="assets/KALI-NETHUNTER/kalinethunter-logo.svg" width="85" height="85" /> | <img src="assets/WINTOGO/wintogo-usb.svg" width="85" height="85" /> | <img src="assets/TAILS/tails-logo.svg" width="85" height="85" /> | <img src="assets/VIRTUALBOX/VIRTUALBOX-LOGO.svg" width="85" height="85" /> |
 
 
 
 
 
-
+<!-- <img src="assets/burp.svg" alt="burp" width="85" height="85" /> -->
 
 
 <!--
