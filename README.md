@@ -45,7 +45,7 @@
 # Hardware & Firmware: 
 | Thinkpad X1 | Coreboot |
 | --- | --- |
-| <img src="assets/THINKPAD-X1/THINKPAD-X1-LOGO.svg" width="130" height="55" /> | <img src="assets/COREBOOT/Coreboot-logo.svg" width="55" height="55" /> |
+| <img src="assets/THINKPAD-X1/THINKPAD-X1-LOGO.svg" width="100" height="55" /> | <img src="assets/COREBOOT/Coreboot-logo.svg" width="55" height="55" /> |
 
 
 # OS:
