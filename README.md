@@ -1,16 +1,54 @@
-## Hi there 👋
 
-# Hardware:
-| Thinkpad X1 | 
-| --- |
-| <img src="assets/THINKPAD-X1/THINKPAD-X1-LOGO.svg" width="130" height="85" />|
 
-### Firmware:
-| Coreboot |
-| --- |
-| <img src="assets/COREBOOT/Coreboot-logo.svg" width="85" height="85" /> |
+# Degree:
+* WGU - Bachelor of Science in Computer Science
 
-### OS:
+
+# Certified:
+* LPI - Linux Essentials
+* CompTIA - Data+
+* CompTIA - PenTest+
+
+# Hackathons:
+* QC Hack 2022 - IBM Finalist
+
+# Core Languages:
+| Python | Ruby | Java | Bash | PHP |
+| --- | --- | --- | --- | --- |
+| <img src="assets/PYTHON/PYTHON-LOGO.png" width="85" height="85" /> | <img src="assets/RUBY/RUBY-LOGO.png" width="85" height="85" /> | <img src="assets/JAVA/JAVA-LOGO.png" width="85" height="85" /> | <img src="assets/BASH/BASH-LOGO.png" width="85" height="85" /> | <img src= "assets/PHP/PHP-LOGO.png" width="85" height="85" > |
+
+
+# Python Stack:
+| Matplotlib | OpenCV |
+| --- | --- |
+| <img src= "assets/MATPLOTLIB/MATPLOTLIB-LOGO.png" width="85" height="85" > | <img src= "assets/OPENCV/OPENCV-LOGO.png" width="85" height="85" > |
+
+
+# Database:
+| MySQL | SQLite |
+| --- | --- |
+| <img src="assets/MYSQL/MYSQL-LOGO.png" width="85" height="85" /> | <img src="assets/SQLITE/SQLITE.png" width="85" height="85" /> |
+
+
+# Web Frameworks:
+| Django | Ruby on Rails | Spring |
+| --- | --- | --- |
+| <img src="assets/DJANGO/DJANGO-LOGO.png" width="85" height="85" /> | <img src="assets/RUBY-ON-RAILS/RUBY-ON-RAILS-V2.png" width="85" height="85" /> | <img src="assets/SPRING/spring-logo.png" width="85" height="85" /> |
+
+
+# Markup languages:
+| HTML | CSS | Markdown |
+| --- | --- | --- |
+| <img src="assets/HTML/HTML-LOGO.png" width="75" height="75" /> | <img src="assets/CSS/CSS-LOGO.png" width="85" height="85" /> | <img src="assets/MARKDOWN/MARKDOWN-LOGO.png" width="95" height="85" /> |
+
+
+# Hardware & Firmware: 
+| Thinkpad X1 | Coreboot |
+| --- | --- |
+| <img src="assets/THINKPAD-X1/THINKPAD-X1-LOGO.svg" width="130" height="85" /> | <img src="assets/COREBOOT/Coreboot-logo.svg" width="85" height="85" /> |
+
+
+# OS:
 
 | Windows 11 | WSL | Ubuntu | Kali Nethunter | WinToGO | Tails | VirtualBox |
 | --- | --- | --- | --- | --- | --- | --- |
