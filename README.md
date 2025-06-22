@@ -49,11 +49,20 @@
 
 
 # OS:
+| Windows 11 | Ubuntu | Kali Nethunter |
+| --- | --- | --- | 
+| <img src="assets/WINDOWS-11/windows11-original-wordmark.svg" width="55" height="55" /> | <img src="assets/UBUNTU/ubuntu-logo.svg" width="55" height="55" /> | <img src="assets/KALI-NETHUNTER/kalinethunter-logo.svg" width="55" height="55" /> |
 
-| Windows 11 | WSL | Ubuntu | Kali Nethunter | WinToGO | Tails | VirtualBox |
-| --- | --- | --- | --- | --- | --- | --- |
-| <img src="assets/WINDOWS-11/windows11-original-wordmark.svg" width="55" height="55" /> | <img src="assets/WSL/wsl.svg" width="55" height="55" /> | <img src="assets/UBUNTU/ubuntu-logo.svg" width="55" height="55" /> | <img src="assets/KALI-NETHUNTER/kalinethunter-logo.svg" width="55" height="55" /> | <img src="assets/WINTOGO/wintogo-usb.svg" width="55" height="55" /> | <img src="assets/TAILS/tails-logo.svg" width="55" height="55" /> | <img src="assets/VIRTUALBOX/VIRTUALBOX-LOGO.svg" width="55" height="55" /> |
 
+# Portable OS:
+| WinToGO | Tails |
+| --- | --- |
+| <img src="assets/WINTOGO/wintogo-usb.svg" width="55" height="55" /> | <img src="assets/TAILS/tails-logo.svg" width="55" height="55" /> |
+
+# Enviroments:
+| WSL | Postman | Docker | VirtualBox |
+| --- | --- | --- | --- |
+| <img src="assets/WSL/wsl.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="assets/VIRTUALBOX/VIRTUALBOX-LOGO.svg" width="55" height="55" /> | <img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" width="55" height="55"/> |
 
 
 
