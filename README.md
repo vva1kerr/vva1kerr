@@ -15,7 +15,7 @@
 # Core Languages:
 | Python | Ruby | Java | Bash | PHP |
 | --- | --- | --- | --- | --- |
-| <img src="assets/PYTHON/PYTHON-LOGO.png" width="85" height="85" /> | <img src="assets/RUBY/RUBY-LOGO.png" width="85" height="85" /> | <img src="assets/JAVA/JAVA-LOGO.png" width="85" height="85" /> | <img src="assets/BASH/BASH-LOGO.png" width="85" height="85" /> | <img src= "assets/PHP/PHP-LOGO.png" width="85" height="85" > |
+| <img src="assets/PYTHON/PYTHON-LOGO.png" width="55" height="55" /> | <img src="assets/RUBY/RUBY-LOGO.png" width="55" height="55" /> | <img src="assets/JAVA/JAVA-LOGO.png" width="55" height="55" /> | <img src="assets/BASH/BASH-LOGO.png" width="55" height="55" /> | <img src= "assets/PHP/PHP-LOGO.png" width="55" height="55" > |
 
 
 # Python Stack:
@@ -27,38 +27,38 @@
 # Database:
 | MySQL | SQLite |
 | --- | --- |
-| <img src="assets/MYSQL/MYSQL-LOGO.png" width="85" height="85" /> | <img src="assets/SQLITE/SQLITE.png" width="85" height="85" /> |
+| <img src="assets/MYSQL/MYSQL-LOGO.png" width="55" height="55" /> | <img src="assets/SQLITE/SQLITE.png" width="55" height="55" /> |
 
 
 # Web Frameworks:
 | Django | Ruby on Rails | Spring |
 | --- | --- | --- |
-| <img src="assets/DJANGO/DJANGO-LOGO.png" width="85" height="85" /> | <img src="assets/RUBY-ON-RAILS/RUBY-ON-RAILS-V2.png" width="85" height="85" /> | <img src="assets/SPRING/spring-logo.png" width="85" height="85" /> |
+| <img src="assets/DJANGO/DJANGO-LOGO.png" width="55" height="55" /> | <img src="assets/RUBY-ON-RAILS/RUBY-ON-RAILS-V2.png" width="55" height="55" /> | <img src="assets/SPRING/spring-logo.png" width="55" height="55" /> |
 
 
 # Markup languages:
 | HTML | CSS | Markdown |
 | --- | --- | --- |
-| <img src="assets/HTML/HTML-LOGO.png" width="75" height="75" /> | <img src="assets/CSS/CSS-LOGO.png" width="85" height="85" /> | <img src="assets/MARKDOWN/MARKDOWN-LOGO.png" width="95" height="85" /> |
+| <img src="assets/HTML/HTML-LOGO.png" width="75" height="75" /> | <img src="assets/CSS/CSS-LOGO.png" width="55" height="55" /> | <img src="assets/MARKDOWN/MARKDOWN-LOGO.png" width="95" height="55" /> |
 
 
 # Hardware & Firmware: 
 | Thinkpad X1 | Coreboot |
 | --- | --- |
-| <img src="assets/THINKPAD-X1/THINKPAD-X1-LOGO.svg" width="130" height="85" /> | <img src="assets/COREBOOT/Coreboot-logo.svg" width="85" height="85" /> |
+| <img src="assets/THINKPAD-X1/THINKPAD-X1-LOGO.svg" width="130" height="55" /> | <img src="assets/COREBOOT/Coreboot-logo.svg" width="55" height="55" /> |
 
 
 # OS:
 
 | Windows 11 | WSL | Ubuntu | Kali Nethunter | WinToGO | Tails | VirtualBox |
 | --- | --- | --- | --- | --- | --- | --- |
-| <img src="assets/WINDOWS-11/windows11-original-wordmark.svg" width="85" height="85" /> | <img src="assets/WSL/wsl.svg" width="85" height="85" /> | <img src="assets/UBUNTU/ubuntu-logo.svg" width="85" height="85" /> | <img src="assets/KALI-NETHUNTER/kalinethunter-logo.svg" width="85" height="85" /> | <img src="assets/WINTOGO/wintogo-usb.svg" width="85" height="85" /> | <img src="assets/TAILS/tails-logo.svg" width="85" height="85" /> | <img src="assets/VIRTUALBOX/VIRTUALBOX-LOGO.svg" width="85" height="85" /> |
+| <img src="assets/WINDOWS-11/windows11-original-wordmark.svg" width="55" height="55" /> | <img src="assets/WSL/wsl.svg" width="55" height="55" /> | <img src="assets/UBUNTU/ubuntu-logo.svg" width="55" height="55" /> | <img src="assets/KALI-NETHUNTER/kalinethunter-logo.svg" width="55" height="55" /> | <img src="assets/WINTOGO/wintogo-usb.svg" width="55" height="55" /> | <img src="assets/TAILS/tails-logo.svg" width="55" height="55" /> | <img src="assets/VIRTUALBOX/VIRTUALBOX-LOGO.svg" width="55" height="55" /> |
 
 
 
 
 
-<!-- <img src="assets/burp.svg" alt="burp" width="85" height="85" /> -->
+<!-- <img src="assets/burp.svg" alt="burp" width="55" height="55" /> -->
 
 
 <!--
