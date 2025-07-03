@@ -72,6 +72,12 @@
 | <img src="assets/n8n/n8n-logo.jpg" width="100" height="55" /> | <img src="assets/zapier/zapier-logo.png" width="55" height="55" /> |
 
 
+
+# Version Control
+| git |
+| --- | --- |
+| <img src="assets/git/git-logo.jpg" width="100" height="55" /> |
+
 <!-- <img src="assets/burp.svg" alt="burp" width="55" height="55" /> -->
 
 
