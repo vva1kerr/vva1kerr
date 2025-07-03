@@ -59,12 +59,17 @@
 | --- | --- |
 | <img src="assets/WINTOGO/wintogo-usb.svg" width="55" height="55" /> | <img src="assets/TAILS/tails-logo.svg" width="55" height="55" /> |
 
+
 # Enviroments:
 | WSL | Postman | Docker | VirtualBox |
 | --- | --- | --- | --- |
 | <img src="assets/WSL/wsl.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" width="55" height="55"/> |
 
 
+# Automation
+| n8n | Zapier |
+| --- | --- |
+| <img src="assets/n8n/n8n-logo.jpg" width="100" height="55" /> | <img src="assets/zapier/zapier-logo.png" width="55" height="55" /> |
 
 
 <!-- <img src="assets/burp.svg" alt="burp" width="55" height="55" /> -->
