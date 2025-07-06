@@ -17,7 +17,7 @@
 | --- | --- | --- | --- | --- |
 | <img src="assets/PYTHON/PYTHON-LOGO.png" width="55" height="55" /> | <img src="assets/RUBY/RUBY-LOGO.png" width="55" height="55" /> | <img src="assets/JAVA/JAVA-LOGO.png" width="55" height="55" /> | <img src="assets/BASH/BASH-LOGO.png" width="55" height="55" /> | <img src= "assets/PHP/PHP-LOGO.png" width="55" height="55" > |
 
-
+<!--
 # Python Stack:
 | Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
 |----------|----------|----------|----------|----------|----------|
@@ -77,6 +77,9 @@
 | git |
 | --- |
 | <img src="assets/git/git-logo.jpg" width="100" height="55" /> |
+-->
+
+
 
 <!-- <img src="assets/burp.svg" alt="burp" width="55" height="55" /> -->
 
