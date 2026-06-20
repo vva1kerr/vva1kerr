@@ -10,7 +10,7 @@ __   ____   ____ _/ | | _____ _ __ _ __
 * WGU - Bachelor of Science in Computer Science
 
 # Sites:
-* vva1kerr.github.io
+* https://vva1kerr.github.io
 <!--
 # Certified:
 * LPI - Linux Essentials
